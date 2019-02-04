@@ -1,0 +1,25 @@
+.NET Framework 4.5.2 Language Packs (KB2901983)
+
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-ara_d307751869ac9d02eb4c12ebd9ee44f8d0b15acb.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-chs_aeb4b0c4406a559a0d52a125407bcbeea57e218b.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-cht_1bc9e348eb9858c60c88bb4434de4a67a884f2f9.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-csy_a086ad43fe42bb43c25e3e929d197f5179172243.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-dan_d837e8f3ed15558b994625581ed8034bf3c1c0cc.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-deu_1081930dd96b83e3e324489a7f98658274207ccd.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-ell_c695a98a926651564d258467a4dddb8fb193ed7d.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-esn_3a042633a6f2bdb340ac19fa7fc1d34b49baa4b8.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-fin_649cc9d9a2eb33f621e65b2a1924155884fee2d3.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-fra_035e43ece0120cf2fafef8179f4ce8479a20670d.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-ita_8d050031e2f7e5809715e0e568b3edeb100f0a00.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-heb_a35656266a7aef47c59002b3a4e566afc8cd1d0a.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-hun_2d94f4bf270bb33216c16b95de16459c6db87f94.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-jpn_93f0f64c83d9fb96397f6235360c1044d0ceb364.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-kor_26b599463405690e351ba7b50202bc01e3ddf9b9.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-nld_3949ab9a31aa396067fe9acff2528d2ebfa93d99.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-nor_0dcb1b69906dabf8c7a31f9b8001b68a4f2ad99e.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-plk_46275115ba03088a7b79cebdcb26eb12e1b1e19d.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-ptb_e2f1863a58d2814960bca28d53d2aa3a9046a3b3.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-ptg_ac193bd42a4c58aee384c71a75663ac3543b51c2.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-rus_3569f41633540a74f7735dc04ae35a8745483d58.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-sve_2bd82b002019b1faf226d6bf46a0d7d77b29394f.exe
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2015/01/ndp452-kb2901983-x86-x64-trk_2144cdfa767e914ec07d65c59e0cb240f9fcf161.exe
